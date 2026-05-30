@@ -1,0 +1,7 @@
+Model,AUC_ROC,Avg_Precision
+Decision Tree,0.9751,0.9737
+Gradient Boosting,0.9777,0.9833
+XGBoost,0.9852,0.989
+CatBoost,0.9812,0.9861
+XGBoost (Optimised),0.9853,0.9891
+Ensemble (Voting),0.9842,0.9883

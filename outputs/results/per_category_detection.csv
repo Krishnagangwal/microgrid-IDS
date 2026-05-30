@@ -1,0 +1,10 @@
+Attack_Category,Microgrid_Threat,Total_Samples,Detected,Missed,Detection_Rate,Miss_Rate
+Worms,Self-propagating malware,44,44,0,1.0,0.0
+Generic,Generic network attack,18871,18866,5,0.9997,0.0003
+Backdoor,Backdoor,583,582,1,0.9983,0.0017
+Reconnaissance,Network reconnaissance / port scanning,3496,3488,8,0.9977,0.0023
+DoS,DoS on DNP3 master station,4089,4065,24,0.9941,0.0059
+Exploits,Protocol exploit / command injection,11132,11026,106,0.9905,0.0095
+Shellcode,Remote code execution attempt,378,373,5,0.9868,0.0132
+Analysis,Traffic analysis / probing,677,652,25,0.9631,0.0369
+Fuzzers,DNP3 protocol fuzzing,6062,4616,1446,0.7615,0.2385

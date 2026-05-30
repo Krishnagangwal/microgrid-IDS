@@ -1,0 +1,2 @@
+Model_1,Model_2,chi2,p_value,alpha,significant,interpretation,both_correct,gb_only_correct,xgb_only_correct,both_wrong
+Gradient Boosting,XGBoost,310.6278,0.0,0.05,True,Statistically SIGNIFICANT (p=0.0000 < α=0.05). The two models differ in their error patterns. Gradient Boosting and XGBoost make different mistakes — their combination in an ensemble is well-motivated.,5802,2099,1101,73330

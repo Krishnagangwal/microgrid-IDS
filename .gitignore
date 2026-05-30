@@ -1,0 +1,28 @@
+# Virtual environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# CatBoost training artifacts
+catboost_info/
+
+# Claude Code settings
+.claude/
+
+# Dataset (download manually per README)
+data/
+
+# Large binary/numpy artifacts
+outputs/results/*.npy
+outputs/results/cat_train.csv
+outputs/results/cat_test.csv
+
+# Trained model binaries
+outputs/models/

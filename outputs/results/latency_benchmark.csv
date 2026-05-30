@@ -1,0 +1,7 @@
+Model,mean_ms,median_ms,p99_ms,std_ms,throughput_fps,meets_realtime
+Decision Tree,0.0249,0.0237,0.072,0.0105,40117,True
+Gradient Boosting,0.0791,0.0772,0.1012,0.0135,12641,True
+XGBoost,0.0699,0.0563,0.2128,0.038,14299,True
+CatBoost,0.1734,0.1609,0.3584,0.0457,5768,True
+XGBoost (Optimised),0.0664,0.0586,0.2142,0.0296,15056,True
+Ensemble (Voting),0.3895,0.3588,0.7925,0.0929,2568,True

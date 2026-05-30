@@ -1,0 +1,16 @@
+Feature,Mean_Abs_SHAP,Rank
+sttl,3.031751,1
+ct_dst_sport_ltm,0.806618,2
+ct_state_ttl,0.4969954,3
+sbytes,0.49354216,4
+smean,0.37846234,5
+ct_srv_dst,0.36534613,6
+service_dns,0.26299176,7
+sloss,0.19287318,8
+ct_srv_src,0.14695127,9
+ct_dst_src_ltm,0.14536342,10
+dbytes,0.14114842,11
+dmean,0.13946964,12
+synack,0.12272378,13
+dpkts,0.10073727,14
+tcprtt,0.097410604,15
