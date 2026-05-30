@@ -1,7 +1,7 @@
 # Microgrid IDS
 
 
-**"Machine Learning-Based Intrusion Detection for Critical Microgrid Networks"**
+**Machine Learning-Based Intrusion Detection for Critical Microgrid Networks**
 
 ---
 
