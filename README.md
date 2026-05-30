@@ -1,6 +1,6 @@
 # Microgrid IDS
 
-Reproducible code for:
+
 **"Machine Learning-Based Intrusion Detection for Critical Microgrid Networks"**
 
 ---
